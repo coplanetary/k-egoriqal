@@ -1,0 +1,2 @@
+import{c as o}from"./client.B_iNfiEx.js";import"./_sentry-release-injection-file.V1S_e4ml.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},d=new Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="c6f2f4de-145d-498d-8675-b8e674f75dad",e._sentryDebugIdIdentifier="sentry-dbid-c6f2f4de-145d-498d-8675-b8e674f75dad")}catch{}})();export{o as default};
+//# sourceMappingURL=client.B7bJ521L.js.map
