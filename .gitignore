@@ -28,3 +28,6 @@ bin/*
 lib/**/*
 lib64/**/*
 pyvenv.cfg
+
+lib64
+lib

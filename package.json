@@ -32,6 +32,7 @@
     "@preact/signals": "^1.2.3",
     "@qwikdev/astro": "^0.5.14",
     "@sentry/astro": "^7.109.0",
+    "@sentry/cli": "^2.31.0",
     "@spearwolf/signalize": "^0.13.0",
     "@spotlightjs/astro": "^1.0.20",
     "astro": "^4.5.16",
